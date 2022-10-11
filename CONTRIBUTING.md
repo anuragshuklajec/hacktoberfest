@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Anurag Shukla](https://github.com/anuragshuklajec)
+
+- Place: Jabalpur, Madhya Pradesh, India
+- Bio: Backend Developer
+- GitHub: [Anurag Shukla](https://github.com/anuragshuklajec)
